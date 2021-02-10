@@ -1,8 +1,8 @@
-<h1 style="text-align:center;">Techno Cursos</h1><br>
+<h1>Techno Cursos</h1><br>
 
-<h2 style="text-align:center;">Projeto criado durante o curso de Vue Js2</h2>
+<h2>Projeto criado durante o curso de Vue Js2</h2>
 
-<img src="./src/assets/technoGif.gif" style="display: block; margin:0 auto;"/>
+<img src="./src/assets/technoGif.gif"/>
 
 <p>Projeto criado utilizando dos conceitos aprendidos no curso, tais como o uso de Hooks, transitions, routers, components, props, entre outros.</p>
 <p>Basicamente é um site de cursos online onde o aluno pode acessar os cursos disponíveis pelos links, todas as informações são puxadas da Api disponível
